@@ -1,0 +1,13 @@
+{
+    "translation": {
+        "changeL": "change language",
+        "placeholder": "Enter the search term",
+        "checked": "Relevant",
+        "checked2": "Latest",
+        "button": "Search",
+        "create": "created on :  ",
+        "back": "back",
+        "page": "page",
+        "of": "of"
+    }
+}
